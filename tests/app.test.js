@@ -5,4 +5,11 @@ describe("Sample tests ",()=>{
     test("Second test case",()=>{
         expect(1 + 3).toBe(4);
     });
+
+    test("Third test case",()=>{
+        expect(1 + 5).toBe(6);
+    });
+    test("Fourth test case",()=>{
+        expect(1 + 7).toBe(8);
+    });
 });
