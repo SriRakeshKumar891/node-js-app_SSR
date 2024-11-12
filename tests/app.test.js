@@ -12,4 +12,7 @@ describe("Sample tests ",()=>{
     test("Fourth test case",()=>{
         expect(1 + 7).toBe(8);
     });
+    test("Fifth test case",()=>{
+        expect(1 + 14).toBe(15);
+    });
 });
